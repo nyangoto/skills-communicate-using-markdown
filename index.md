@@ -8,5 +8,5 @@
 ### Adding code snippets
 ```
 $ python3 -m venv all_in
-Created a Python virtual environment in the current directory.
+Created a Python virtual environment named all_in in the current directory.
 ```
